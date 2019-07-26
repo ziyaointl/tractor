@@ -8,7 +8,6 @@ from .psfex import *
 from .ellipses import *
 from .imageutils import *
 from .galaxy import *
-from .version import *
 
 try:
     __version__ = version
